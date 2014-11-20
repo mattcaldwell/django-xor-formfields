@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from django.forms.widgets import Input, MultiWidget, FileInput
 from django.core.validators import EMPTY_VALUES
 from django.utils.safestring import mark_safe

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 try:
     from io import StringIO
 except ImportError:
